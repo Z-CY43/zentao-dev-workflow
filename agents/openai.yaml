@@ -1,0 +1,4 @@
+interface:
+  display_name: "ZenTao Dev Workflow"
+  short_description: "Draft ZenTao bugs, requirements, resolutions, and commit notes."
+  default_prompt: "Use $zentao-dev-workflow to draft this ZenTao bug or requirement, document the resolution, and prepare the Gitee/GitHub commit message."

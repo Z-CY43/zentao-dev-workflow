@@ -1,0 +1,26 @@
+# Codex/local runtime artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+*.orig
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Node cache, if helper tooling is added later
+node_modules/
+dist/
+build/
